@@ -37,7 +37,7 @@
     "type": "Mini Devil",
     "level": "rookie",
     "attribute": "virus",
-    "image": "https://example.com/impmon.jpg"
+    "image": "https://wikimon.net/images/0/0b/Impmon.jpg"
   },
   {
     "id": "6",
@@ -45,7 +45,7 @@
     "type": "Mutant",
     "level": "rookie",
     "attribute": "data",
-    "image": ""
+    "image": "https://wikimon.net/images/d/d5/Bacomon.jpg"
   },
   {
     "id": "7",
@@ -53,7 +53,7 @@
     "type": "Angel",
     "level": "rookie",
     "attribute": "vaccine",
-    "image": ""
+    "image": "https://wikimon.net/images/e/e7/Lucemon2.jpg"
   },
   {
     "id": "8",
@@ -61,7 +61,7 @@
     "type": "Mini Devil",
     "level": "rookie",
     "attribute": "virus",
-    "image": ""
+    "image": "https://wikimon.net/images/c/c3/Omegamon_alter-b.jpg"
   },
   {
     "id": "9",
