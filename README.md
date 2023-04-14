@@ -36,9 +36,7 @@ Here are the request methods:
     "image": "https://wikimon.net/images/0/0b/Impmon.jpg"
     }
 ```
-
 Data Sources:
-
--Digimons: wikimon.net
--Pokemons: https://www.pokemon.com/us/pokedex
--Fantastic Beasts: TBA
+- Digimons: wikimon.net
+- Pokemons: https://www.pokemon.com/us/pokedex
+- Fantastic Beasts: TBA
