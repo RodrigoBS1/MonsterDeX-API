@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Agumon",
+    "type": "Reptile",
+    "level": "Rookie",
+    "attribute": "Vaccine",
+    "image": "https://example.com/agumon.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Gabumon",
+    "type": "Mammal",
+    "level": "Rookie",
+    "attribute": "Vaccine",
+    "image": "https://example.com/gabumon.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Patamon",
+    "type": "Mammal",
+    "level": "Rookie",
+    "attribute": "Data",
+    "image": "https://example.com/patamon.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Gomamon",
+    "type": "Sea Animal",
+    "level": "Rookie",
+    "attribute": "Data",
+    "image": "https://example.com/gomamon.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Impmon",
+    "type": "Mini Devil",
+    "level": "rookie",
+    "attribute": "virus",
+    "image": "https://example.com/impmon.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Bakomon",
+    "type": "Mutant",
+    "level": "rookie",
+    "attribute": "data",
+    "image": ""
+  },
+  {
+    "id": "7",
+    "name": "Lucemon",
+    "type": "Angel",
+    "level": "rookie",
+    "attribute": "vaccine",
+    "image": ""
+  },
+  {
+    "id": "8",
+    "name": "Omegamon (Alter-B)",
+    "type": "Mini Devil",
+    "level": "rookie",
+    "attribute": "virus",
+    "image": ""
+  },
+  {
+    "id": "9",
+    "name": "BeelStarmon",
+    "type": "Demon Man",
+    "level": "Ultimate",
+    "attribute": "Virus",
+    "image": "https://wikimon.net/images/0/04/Beelstarmonx.jpg"
+  }
+]
