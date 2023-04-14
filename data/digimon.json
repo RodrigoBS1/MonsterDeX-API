@@ -70,5 +70,13 @@
     "level": "Ultimate",
     "attribute": "Virus",
     "image": "https://wikimon.net/images/0/04/Beelstarmonx.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Testnom",
+    "type": "Mammal",
+    "level": "Rokkie",
+    "attribute": "Data, Free",
+    "image": "https://wikimon.net/images/7/71/Gabumon.jpg"
   }
 ]
