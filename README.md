@@ -1,6 +1,7 @@
 ## MonsterDex API
 
-This is an API to give an inventory of monsters (digimons).
+This is an API to give an inventory of monsters (digimon). 
+(--coming soon Fantastic Beasts & Pokemons)
 
 Here are the request methods:
 
@@ -35,3 +36,9 @@ Here are the request methods:
     "image": "https://wikimon.net/images/0/0b/Impmon.jpg"
     }
 ```
+
+Data Sources:
+
+-Digimons: wikimon.net
+-Pokemons: https://www.pokemon.com/us/pokedex
+-Fantastic Beasts: TBA

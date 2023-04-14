@@ -5,23 +5,23 @@
     "type": "Reptile",
     "level": "Rookie",
     "attribute": "Vaccine",
-    "image": "https://example.com/agumon.jpg"
+    "image": "https://wikimon.net/images/7/72/Agumon.jpg"
   },
   {
     "id": "2",
     "name": "Gabumon",
-    "type": "Mammal",
+    "type": "Mammal/Reptile/Beast",
     "level": "Rookie",
-    "attribute": "Vaccine",
-    "image": "https://example.com/gabumon.jpg"
+    "attribute": "Vaccine, Data",
+    "image": "https://wikimon.net/images/7/71/Gabumon.jpg"
   },
   {
     "id": "3",
     "name": "Patamon",
     "type": "Mammal",
     "level": "Rookie",
-    "attribute": "Data",
-    "image": "https://example.com/patamon.jpg"
+    "attribute": "Data, Free, Vaccine",
+    "image": "https://wikimon.net/images/7/7d/Patamon.jpg"
   },
   {
     "id": "4",
@@ -29,7 +29,7 @@
     "type": "Sea Animal",
     "level": "Rookie",
     "attribute": "Data",
-    "image": "https://example.com/gomamon.jpg"
+    "image": "https://wikimon.net/images/9/9b/Gomamon.jpg"
   },
   {
     "id": "5",
